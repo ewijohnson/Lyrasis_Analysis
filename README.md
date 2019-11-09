@@ -1,5 +1,9 @@
 # Lyrasis_Analysis
-Extracts data from Accessibility report from Lyrasis to look at just R1 institutions
+Extracts data from Accessibility report from Lyrasis to look at just R1 institutions.
+
+Original data retrieved from: https://www.lyrasis.org/technology/Pages/Accessibility-Survey-Report.aspx 
+
+Data is licensed under Creative Commons 4.0: https://creativecommons.org/licenses/by/4.0/ 
 
 ## What files are important?
 The combined summary data from all R1 institutions that responded in the Accessibility 

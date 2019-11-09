@@ -1,0 +1,64 @@
+Unique Identifier: 
+    154
+Carnegie Classification of Institutions of Higher Education (if your institution fits within a larger/home organization that has a Carnegie Classification, please indicate here): 
+    Doctoral University – Highest Research Activity (R1)
+Are you responsible for purchasing or pledging financial support for digital content for your institution? Yes or No: 
+    Yes
+Does your institution have an accessibility policy for digital content acquisition?: 
+    Other (please specify)
+Does your institution have an accessibility policy for digital content acquisition? Other (please specify): 
+    We have standard accessibility language that we try to include in every e-resource license agreement.
+Which mandate(s) inform your accessibility policy for content acquisition? Please select all that apply. World Wide Web Consortium’s Web Content Accessibility Guidelines (WCAG): 
+    World Wide Web Consortium’s Web Content Accessibility Guidelines (WCAG)
+Which mandate(s) inform your accessibility policy for content acquisition? Please select all that apply. Non-legal institution-wide mandate: 
+    Non-legal institution-wide mandate
+Do you have a timeline for implementing your accessibility policy for content acquisition?: 
+    Other (please specify)
+Do you have a timeline for implementing your accessibility policy for content acquisition? Other (please specify): 
+    As new licenses are negotiated or existing licenses are renegotiated.
+Who is responsible for updating your accessibility policy for content acquisition, and how often is it audited/updated?: 
+    Policy is at the university level. Licensing language/best practices within library are managed by a team and reviewed regularly.
+What documentation do you request from content providers to enforce your accessibility policy? Please select all that apply. Accessibility language required for content license: 
+    Accessibility language required for content license
+What training has been provided to help staff understand and implement your accessibility policy for content acquisition? Please select all that apply. Other (please specify): 
+    Licensing: in-person training from library staff. Does this question go beyond licensing?
+If your institution provides financial support for the creation of Open Access (OA) content, are you held to the same accessibility mandates as for licensed content?: 
+    Other (please specify)
+If your institution provides financial support for the creation of Open Access (OA) content, are you held to the same accessibility mandates as for licensed content? Other (please specify): 
+    If there is a license agreement for the OA content, then we request that our preferred accessibility clause be included.
+How is your accessibility policy for content acquisition enforced?: 
+    n/a
+Are you responsible for creating or collating digital content from within your institution? Yes or No: 
+    No
+Are you responsible for purchasing, acquiring or creating systems within your institution? Yes or No: 
+    Other (please specify)
+Are you responsible for purchasing, acquiring or creating systems within your institution? Other (please specify): 
+    Co-manage systems with Library IT
+Does your institution have an accessibility policy for determining which systems will be used to host content on the World Wide Web?: 
+    Yes - a formal policy, e.g. a written policy approved by relevant administration
+Which mandate(s) inform your accessibility policy for systems? Please select all that apply. World Wide Web Consortium’s Web Content Accessibility Guidelines (WCAG): 
+    World Wide Web Consortium’s Web Content Accessibility Guidelines (WCAG)
+Which mandate(s) inform your accessibility policy for systems? Please select all that apply. Non-legal internal mandate: 
+    Non-legal internal mandate
+Which mandate(s) inform your accessibility policy for systems? Please select all that apply. Non-legal institution-wide mandate: 
+    Non-legal institution-wide mandate
+Do you have a timeline for implementing your accessibility policy for systems?: 
+    All systems must conform with the policy at this time
+Who is responsible for updating your accessibility policy for systems, and how often is it audited/updated?: 
+    At the university level.
+Which tools/resources do you use to ensure your content conforms to the accessibility policy for systems? Other (please specify): 
+    Don't know
+What training has been provided to help staff understand and implement your accessibility policy for systems?  In-person training from other staff: 
+    In-person training from other staff
+What training has been provided to help staff understand and implement your accessibility policy for systems?  In-person training from external areas of the institution: 
+    In-person training from external areas of the institution
+What training has been provided to help staff understand and implement your accessibility policy for systems?  In-person training from outside of the institution: 
+    In-person training from outside of the institution
+What training has been provided to help staff understand and implement your accessibility policy for systems?  Conferences/workshops: 
+    Conferences/workshops
+What training has been provided to help staff understand and implement your accessibility policy for systems?  Self-training: 
+    Self-training
+If your institution chooses to use Open Source Software (OSS), whether hosted locally or through a third party hosting agent, are those applications held to the same accessibility mandates as proprietary software?: 
+    Yes
+How is your accessibility policy for systems enforced?: 
+    All systems must go through internal review before public launch

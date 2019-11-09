@@ -1,0 +1,4 @@
+Does your institution have an accessibility policy for digital content acquisition? Other (please specify)
+
+LIbrary administration requires that we append a license admendment to all e-resource licenses that ensure accessibility. Language in the amendment is taken from ARL's model license from the ARL Accessibility Toolkit. 
+We have standard accessibility language that we try to include in every e-resource license agreement.

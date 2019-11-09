@@ -1,0 +1,8 @@
+Which tools/resources do you use to ensure your content conforms to the accessibility policy? ther (please specify)
+
+SiteImprove
+specific computers in one location, plus captioning, audio description, or transcription upon request for audio or video works
+I also use non-built-in screen readers such as NVDA & JAWS; I believe our IT departments have done additional testing with other tools.
+Daisy Consortium Ace Accessibility Checker (EPUB); External audits from accessibility consultants
+NVDA
+SiteImprove toolbar

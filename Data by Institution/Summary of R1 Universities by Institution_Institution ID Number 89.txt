@@ -1,0 +1,34 @@
+Unique Identifier: 
+    89
+Carnegie Classification of Institutions of Higher Education (if your institution fits within a larger/home organization that has a Carnegie Classification, please indicate here): 
+    Doctoral University – Highest Research Activity (R1)
+Are you responsible for purchasing or pledging financial support for digital content for your institution? Yes or No: 
+    Yes
+Does your institution have an accessibility policy for digital content acquisition?: 
+    Yes - a formal policy, e.g. a written policy approved by relevant administration
+Which mandate(s) inform your accessibility policy for content acquisition? Please select all that apply. Section 508 of the Rehabilitation Act of 1973: 
+    Section 508 of the Rehabilitation Act of 1973
+Which mandate(s) inform your accessibility policy for content acquisition? Please select all that apply. Americans with Disabilities Act: 
+    Americans with Disabilities Act
+Which mandate(s) inform your accessibility policy for content acquisition? Please select all that apply. World Wide Web Consortium’s Web Content Accessibility Guidelines (WCAG): 
+    World Wide Web Consortium’s Web Content Accessibility Guidelines (WCAG)
+Which mandate(s) inform your accessibility policy for content acquisition? Please select all that apply. Non-legal institution-wide mandate: 
+    Non-legal institution-wide mandate
+Do you have a timeline for implementing your accessibility policy for content acquisition?: 
+    All content must conform with the policy at this time
+Who is responsible for updating your accessibility policy for content acquisition, and how often is it audited/updated?: 
+    unknown, it's a new policy
+What documentation do you request from content providers to enforce your accessibility policy? Please select all that apply. VPAT: 
+    VPAT
+What documentation do you request from content providers to enforce your accessibility policy? Please select all that apply. Accessibility language required for content license: 
+    Accessibility language required for content license
+What training has been provided to help staff understand and implement your accessibility policy for content acquisition? Please select all that apply. None: 
+    None
+If your institution provides financial support for the creation of Open Access (OA) content, are you held to the same accessibility mandates as for licensed content?: 
+    Yes
+How is your accessibility policy for content acquisition enforced?: 
+    unknown
+Are you responsible for creating or collating digital content from within your institution? Yes or No: 
+    No
+Are you responsible for purchasing, acquiring or creating systems within your institution? Yes or No: 
+    Yes

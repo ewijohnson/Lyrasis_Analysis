@@ -1,0 +1,36 @@
+Unique Identifier: 
+    130
+Carnegie Classification of Institutions of Higher Education (if your institution fits within a larger/home organization that has a Carnegie Classification, please indicate here): 
+    Doctoral University – Highest Research Activity (R1)
+Are you responsible for purchasing or pledging financial support for digital content for your institution? Yes or No: 
+    Yes
+Does your institution have an accessibility policy for digital content acquisition?: 
+    Yes - an informal policy, e.g. rule of thumb to generally follow
+Which mandate(s) inform your accessibility policy for content acquisition? Please select all that apply. Section 508 of the Rehabilitation Act of 1973: 
+    Section 508 of the Rehabilitation Act of 1973
+Which mandate(s) inform your accessibility policy for content acquisition? Please select all that apply. Americans with Disabilities Act: 
+    Americans with Disabilities Act
+Which mandate(s) inform your accessibility policy for content acquisition? Please select all that apply. World Wide Web Consortium’s Web Content Accessibility Guidelines (WCAG): 
+    World Wide Web Consortium’s Web Content Accessibility Guidelines (WCAG)
+Which mandate(s) inform your accessibility policy for content acquisition? Please select all that apply. State law governing my institution: 
+    State law governing my institution
+Do you have a timeline for implementing your accessibility policy for content acquisition?: 
+    5+ years
+Who is responsible for updating your accessibility policy for content acquisition, and how often is it audited/updated?: 
+    With no formal policy, no specific person is responsible for updating the policy
+What documentation do you request from content providers to enforce your accessibility policy? Please select all that apply. VPAT: 
+    VPAT
+What training has been provided to help staff understand and implement your accessibility policy for content acquisition? Please select all that apply. In-person training from other staff: 
+    In-person training from other staff
+What training has been provided to help staff understand and implement your accessibility policy for content acquisition? Please select all that apply. Self-training: 
+    Self-training
+If your institution provides financial support for the creation of Open Access (OA) content, are you held to the same accessibility mandates as for licensed content?: 
+    Other (please specify)
+If your institution provides financial support for the creation of Open Access (OA) content, are you held to the same accessibility mandates as for licensed content? Other (please specify): 
+    unknown
+How is your accessibility policy for content acquisition enforced?: 
+    It depends on the situation. We use a software program to scan webpages for problems and IT folks are responsible for correcting those problem. 
+Are you responsible for creating or collating digital content from within your institution? Yes or No: 
+    No
+Are you responsible for purchasing, acquiring or creating systems within your institution? Yes or No: 
+    No

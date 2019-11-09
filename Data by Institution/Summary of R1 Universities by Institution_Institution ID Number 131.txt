@@ -1,0 +1,30 @@
+Unique Identifier: 
+    131
+Carnegie Classification of Institutions of Higher Education (if your institution fits within a larger/home organization that has a Carnegie Classification, please indicate here): 
+    Doctoral University – Highest Research Activity (R1)
+Are you responsible for purchasing or pledging financial support for digital content for your institution? Yes or No: 
+    No
+Are you responsible for creating or collating digital content from within your institution? Yes or No: 
+    No
+Are you responsible for purchasing, acquiring or creating systems within your institution? Yes or No: 
+    Yes
+Does your institution have an accessibility policy for determining which systems will be used to host content on the World Wide Web?: 
+    Yes - a formal policy, e.g. a written policy approved by relevant administration
+Which mandate(s) inform your accessibility policy for systems? Please select all that apply. Americans with Disabilities Act: 
+    Americans with Disabilities Act
+Which mandate(s) inform your accessibility policy for systems? Please select all that apply. World Wide Web Consortium’s Web Content Accessibility Guidelines (WCAG): 
+    World Wide Web Consortium’s Web Content Accessibility Guidelines (WCAG)
+Do you have a timeline for implementing your accessibility policy for systems?: 
+    3 – 4 years
+Who is responsible for updating your accessibility policy for systems, and how often is it audited/updated?: 
+    Campus Division of IT; unknown
+Which tools/resources do you use to ensure your content conforms to the accessibility policy for systems? Other (please specify): 
+    SiteImprove
+What training has been provided to help staff understand and implement your accessibility policy for systems?  In-person training from external areas of the institution: 
+    In-person training from external areas of the institution
+What training has been provided to help staff understand and implement your accessibility policy for systems?  Self-training: 
+    Self-training
+If your institution chooses to use Open Source Software (OSS), whether hosted locally or through a third party hosting agent, are those applications held to the same accessibility mandates as proprietary software?: 
+    Yes
+How is your accessibility policy for systems enforced?: 
+    We haven't arrived at enforcement in our process, so unknown at this time.

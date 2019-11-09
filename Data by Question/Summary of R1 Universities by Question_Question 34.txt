@@ -1,0 +1,9 @@
+How is your accessibility policy for content acquisition enforced?
+
+Primarily through institutional license agreements for licensed content
+it's tracked internally
+unknown
+It's really not - campus officials don't know when we're subscribing to new content unless it's over a certain amount of money, then procurement has to get involved and negotiate contracts. 
+through licensing provisions
+It depends on the situation. We use a software program to scan webpages for problems and IT folks are responsible for correcting those problem. 
+n/a

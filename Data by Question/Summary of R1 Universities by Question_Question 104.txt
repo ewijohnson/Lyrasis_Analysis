@@ -1,0 +1,3 @@
+If your institution chooses to use Open Source Software (OSS), whether hosted locally or through a third party hosting agent, are those applications held to the same accessibility mandates as proprietary software? Other (please specify)
+
+Yes, but I'm not sure what recourse we have if it isn't.

@@ -1,0 +1,10 @@
+Who is responsible for updating your accessibility policy for content creation, and how often is it audited/updated?
+
+Digital Information unit
+Informal policy, institutional "intention"
+A campus-wide committee
+Internal library committee, updated annually
+I believe the Library's internal policy is overseen by the Assistant University Librarian for IT; I'm not sure which office oversees the campus/system wide policies.
+At Michigan Publishing, the policy is driven by an Accessibility Group that includes members across all units of Michigan Publishing
+Central accessibility office (new - no update schedule yet)
+Central Technology Services unit at the university; updated annually. Local policies at our library flow from and sometimes expand upon that guidance.

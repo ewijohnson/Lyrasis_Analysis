@@ -1,0 +1,12 @@
+Unique Identifier: 
+    123
+Carnegie Classification of Institutions of Higher Education (if your institution fits within a larger/home organization that has a Carnegie Classification, please indicate here): 
+    Doctoral University – Highest Research Activity (R1)
+Are you responsible for purchasing or pledging financial support for digital content for your institution? Yes or No: 
+    Yes
+Does your institution have an accessibility policy for digital content acquisition?: 
+    No
+Are you responsible for creating or collating digital content from within your institution? Yes or No: 
+    No
+Are you responsible for purchasing, acquiring or creating systems within your institution? Yes or No: 
+    No

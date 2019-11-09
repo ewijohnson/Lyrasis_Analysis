@@ -1,0 +1,1155 @@
+Unique Identifier
+
+21
+23
+33
+79
+89
+92
+95
+104
+115
+123
+126
+127
+129
+130
+131
+133
+137
+138
+140
+143
+145
+154
+
+
+
+-------------------------------------
+Carnegie Classification of Institutions of Higher Education (if your institution fits within a larger/home organization that has a Carnegie Classification, please indicate here)
+
+Doctoral University – Highest Research Activity (R1)
+Doctoral University – Highest Research Activity (R1)
+Doctoral University – Highest Research Activity (R1)
+Doctoral University – Highest Research Activity (R1)
+Doctoral University – Highest Research Activity (R1)
+Doctoral University – Highest Research Activity (R1)
+Doctoral University – Highest Research Activity (R1)
+Doctoral University – Highest Research Activity (R1)
+Doctoral University – Highest Research Activity (R1)
+Doctoral University – Highest Research Activity (R1)
+Doctoral University – Highest Research Activity (R1)
+Doctoral University – Highest Research Activity (R1)
+Doctoral University – Highest Research Activity (R1)
+Doctoral University – Highest Research Activity (R1)
+Doctoral University – Highest Research Activity (R1)
+Doctoral University – Highest Research Activity (R1)
+Doctoral University – Highest Research Activity (R1)
+Doctoral University – Highest Research Activity (R1)
+Doctoral University – Highest Research Activity (R1)
+Doctoral University – Highest Research Activity (R1)
+Doctoral University – Highest Research Activity (R1)
+Doctoral University – Highest Research Activity (R1)
+
+
+
+-------------------------------------
+If your home organization does not have a Carnegie Classification, please indicate your institution type:
+
+
+
+
+-------------------------------------
+If your home organization does not have a Carnegie Classification, please indicate your institution type: Other (please specify)
+
+
+
+
+-------------------------------------
+Are you responsible for purchasing or pledging financial support for digital content for your institution? Yes or No
+
+No
+No
+Yes
+Other (please specify)
+Yes
+Yes
+Yes
+No
+No
+Yes
+Yes
+No
+No
+Yes
+No
+No
+No
+No
+Yes
+No
+No
+Yes
+
+
+
+-------------------------------------
+Are you responsible for purchasing or pledging financial support for digital content for your institution? Other (please specify)
+
+Yes, but not the sole/only person
+
+
+
+-------------------------------------
+Does your institution have an accessibility policy for digital content acquisition?
+
+Yes - an informal policy, e.g. rule of thumb to generally follow
+Yes - a formal policy, e.g. a written policy approved by relevant administration
+Yes - a formal policy, e.g. a written policy approved by relevant administration
+No
+Yes - a formal policy, e.g. a written policy approved by relevant administration
+No
+Other (please specify)
+Yes - an informal policy, e.g. rule of thumb to generally follow
+No
+Other (please specify)
+
+
+
+-------------------------------------
+Does your institution have an accessibility policy for digital content acquisition? Other (please specify)
+
+LIbrary administration requires that we append a license admendment to all e-resource licenses that ensure accessibility. Language in the amendment is taken from ARL's model license from the ARL Accessibility Toolkit. 
+We have standard accessibility language that we try to include in every e-resource license agreement.
+
+
+
+-------------------------------------
+Which mandate(s) inform your accessibility policy for content acquisition? Please select all that apply. Section 508 of the Rehabilitation Act of 1973
+
+Section 508 of the Rehabilitation Act of 1973
+Section 508 of the Rehabilitation Act of 1973
+Section 508 of the Rehabilitation Act of 1973
+Section 508 of the Rehabilitation Act of 1973
+Section 508 of the Rehabilitation Act of 1973
+Section 508 of the Rehabilitation Act of 1973
+
+
+
+-------------------------------------
+Which mandate(s) inform your accessibility policy for content acquisition? Please select all that apply. Americans with Disabilities Act
+
+Americans with Disabilities Act
+Americans with Disabilities Act
+Americans with Disabilities Act
+Americans with Disabilities Act
+Americans with Disabilities Act
+Americans with Disabilities Act
+
+
+
+-------------------------------------
+Which mandate(s) inform your accessibility policy for content acquisition? Please select all that apply. World Wide Web Consortium’s Web Content Accessibility Guidelines (WCAG)
+
+World Wide Web Consortium’s Web Content Accessibility Guidelines (WCAG)
+World Wide Web Consortium’s Web Content Accessibility Guidelines (WCAG)
+World Wide Web Consortium’s Web Content Accessibility Guidelines (WCAG)
+World Wide Web Consortium’s Web Content Accessibility Guidelines (WCAG)
+World Wide Web Consortium’s Web Content Accessibility Guidelines (WCAG)
+World Wide Web Consortium’s Web Content Accessibility Guidelines (WCAG)
+World Wide Web Consortium’s Web Content Accessibility Guidelines (WCAG)
+
+
+
+-------------------------------------
+Which mandate(s) inform your accessibility policy for content acquisition? Please select all that apply. State law governing my institution
+
+State law governing my institution
+State law governing my institution
+
+
+
+-------------------------------------
+Which mandate(s) inform your accessibility policy for content acquisition? Please select all that apply. Non-legal internal mandate
+
+Non-legal internal mandate
+Non-legal internal mandate
+
+
+
+-------------------------------------
+Which mandate(s) inform your accessibility policy for content acquisition? Please select all that apply. Non-legal institution-wide mandate
+
+Non-legal institution-wide mandate
+Non-legal institution-wide mandate
+Non-legal institution-wide mandate
+Non-legal institution-wide mandate
+Non-legal institution-wide mandate
+Non-legal institution-wide mandate
+
+
+
+-------------------------------------
+Which mandate(s) inform your accessibility policy for content acquisition? Please select all that apply. Other (please specify)
+
+
+
+
+-------------------------------------
+Do you have a timeline for implementing your accessibility policy for content acquisition?
+
+Other (please specify)
+5+ years
+All content must conform with the policy at this time
+Other (please specify)
+All content must conform with the policy at this time
+5+ years
+Other (please specify)
+
+
+
+-------------------------------------
+Do you have a timeline for implementing your accessibility policy for content acquisition? Other (please specify)
+
+No formal policy to "implement"
+Current policy is for new subscriptions only. 
+As new licenses are negotiated or existing licenses are renegotiated.
+
+
+
+-------------------------------------
+Who is responsible for updating your accessibility policy for content acquisition, and how often is it audited/updated?
+
+Only recently developed, so can't say
+Me - annually
+unknown, it's a new policy
+Purdue Executive Policy Review Group - unsure of audit/update timeline
+see answer to first question for this section
+With no formal policy, no specific person is responsible for updating the policy
+Policy is at the university level. Licensing language/best practices within library are managed by a team and reviewed regularly.
+
+
+
+-------------------------------------
+What documentation do you request from content providers to enforce your accessibility policy? Please select all that apply. VPAT
+
+VPAT
+VPAT
+VPAT
+VPAT
+VPAT
+
+
+
+-------------------------------------
+What documentation do you request from content providers to enforce your accessibility policy? Please select all that apply. Accessibility Statement
+
+
+
+
+-------------------------------------
+What documentation do you request from content providers to enforce your accessibility policy? Please select all that apply. Accessibility language required for content license
+
+Accessibility language required for content license
+Accessibility language required for content license
+Accessibility language required for content license
+Accessibility language required for content license
+Accessibility language required for content license
+Accessibility language required for content license
+
+
+
+-------------------------------------
+What documentation do you request from content providers to enforce your accessibility policy? Please select all that apply. None
+
+
+
+
+-------------------------------------
+What documentation do you request from content providers to enforce your accessibility policy? Please select all that apply. Other (please specify)
+
+Other accessibility-related language if no VPAT and won't accept our standard license language
+
+
+
+-------------------------------------
+What training has been provided to help staff understand and implement your accessibility policy for content acquisition? Please select all that apply. In-person training from other staff
+
+In-person training from other staff
+In-person training from other staff
+
+
+
+-------------------------------------
+What training has been provided to help staff understand and implement your accessibility policy for content acquisition? Please select all that apply. In-person training from external areas of the institution
+
+In-person training from external areas of the institution
+In-person training from external areas of the institution
+
+
+
+-------------------------------------
+What training has been provided to help staff understand and implement your accessibility policy for content acquisition? Please select all that apply. In-person training from outside of the institution
+
+In-person training from outside of the institution
+
+
+
+-------------------------------------
+What training has been provided to help staff understand and implement your accessibility policy for content acquisition? Please select all that apply. Webinars/on-line courses
+
+Webinars/on-line courses
+Webinars/on-line courses
+
+
+
+-------------------------------------
+What training has been provided to help staff understand and implement your accessibility policy for content acquisition? Please select all that apply. Conferences/workshops
+
+Conferences/workshops
+Conferences/workshops
+
+
+
+-------------------------------------
+What training has been provided to help staff understand and implement your accessibility policy for content acquisition? Please select all that apply. Self-training
+
+Self-training
+Self-training
+Self-training
+
+
+
+-------------------------------------
+What training has been provided to help staff understand and implement your accessibility policy for content acquisition? Please select all that apply. None
+
+None
+None
+
+
+
+-------------------------------------
+What training has been provided to help staff understand and implement your accessibility policy for content acquisition? Please select all that apply. Other (please specify)
+
+Licensing: in-person training from library staff. Does this question go beyond licensing?
+
+
+
+-------------------------------------
+If your institution provides financial support for the creation of Open Access (OA) content, are you held to the same accessibility mandates as for licensed content?
+
+Other (please specify)
+No
+Yes
+Other (please specify)
+Other (please specify)
+Other (please specify)
+Other (please specify)
+
+
+
+-------------------------------------
+If your institution provides financial support for the creation of Open Access (OA) content, are you held to the same accessibility mandates as for licensed content? Other (please specify)
+
+Don't know
+Unclear - this situation hasn't come up yet. 
+we do provide financial support for creation of OA materials (SCOAP3 for example), but I'm unsure of the correct answer to this question
+unknown
+If there is a license agreement for the OA content, then we request that our preferred accessibility clause be included.
+
+
+
+-------------------------------------
+How is your accessibility policy for content acquisition enforced?
+
+Primarily through institutional license agreements for licensed content
+it's tracked internally
+unknown
+It's really not - campus officials don't know when we're subscribing to new content unless it's over a certain amount of money, then procurement has to get involved and negotiate contracts. 
+through licensing provisions
+It depends on the situation. We use a software program to scan webpages for problems and IT folks are responsible for correcting those problem. 
+n/a
+
+
+
+-------------------------------------
+Are you responsible for creating or collating digital content from within your institution? Yes or No
+
+Yes
+Yes
+No
+Other (please specify)
+No
+Yes
+No
+Yes
+Yes
+No
+No
+Yes
+Yes
+No
+No
+Yes
+No
+Yes
+No
+Yes
+Yes
+No
+
+
+
+-------------------------------------
+Are you responsible for creating or collating digital content from within your institution?  Other (please specify)
+
+yes, but not solely/only
+
+
+
+-------------------------------------
+What type of content are you creating and making available for your community? Please select all that apply. Theses and Dissertations
+
+Theses and Dissertations
+Theses and Dissertations
+Theses and Dissertations
+Theses and Dissertations
+Theses and Dissertations
+Theses and Dissertations
+Theses and Dissertations
+
+
+
+-------------------------------------
+What type of content are you creating and making available for your community? Please select all that apply. Journals
+
+Journals
+Journals
+Journals
+Journals
+Journals
+
+
+
+-------------------------------------
+What type of content are you creating and making available for your community? Please select all that apply. Monographs
+
+Monographs
+Monographs
+Monographs
+Monographs
+Monographs
+
+
+
+-------------------------------------
+What type of content are you creating and making available for your community? Please select all that apply. Born digital or digitized archival/special collections materials
+
+Born digital or digitized archival/special collections materials
+Born digital or digitized archival/special collections materials
+Born digital or digitized archival/special collections materials
+Born digital or digitized archival/special collections materials
+Born digital or digitized archival/special collections materials
+Born digital or digitized archival/special collections materials
+Born digital or digitized archival/special collections materials
+Born digital or digitized archival/special collections materials
+Born digital or digitized archival/special collections materials
+Born digital or digitized archival/special collections materials
+Born digital or digitized archival/special collections materials
+Born digital or digitized archival/special collections materials
+Born digital or digitized archival/special collections materials
+
+
+
+-------------------------------------
+What type of content are you creating and making available for your community? Please select all that apply. Scholarly articles/publications
+
+Scholarly articles/publications
+Scholarly articles/publications
+Scholarly articles/publications
+Scholarly articles/publications
+Scholarly articles/publications
+Scholarly articles/publications
+Scholarly articles/publications
+
+
+
+-------------------------------------
+What type of content are you creating and making available for your community? Please select all that apply. Audio/video content
+
+Audio/video content
+Audio/video content
+Audio/video content
+Audio/video content
+Audio/video content
+Audio/video content
+Audio/video content
+Audio/video content
+Audio/video content
+Audio/video content
+Audio/video content
+
+
+
+-------------------------------------
+What type of content are you creating and making available for your community? Please select all that apply. Other campus publications
+
+Other campus publications
+Other campus publications
+Other campus publications
+Other campus publications
+Other campus publications
+Other campus publications
+
+
+
+-------------------------------------
+Does your institution have an accessibility policy in place that applies to the content you create and make available on the World Wide Web?
+
+No
+No
+Yes - a formal policy, e.g. a written policy approved by relevant administration
+Yes - a formal policy, e.g. a written policy approved by relevant administration
+Yes – an informal policy, e.g. rule of thumb to generally follow
+Yes - a formal policy, e.g. a written policy approved by relevant administration
+Yes - a formal policy, e.g. a written policy approved by relevant administration
+Yes - a formal policy, e.g. a written policy approved by relevant administration
+Yes – an informal policy, e.g. rule of thumb to generally follow
+Yes - a formal policy, e.g. a written policy approved by relevant administration
+Yes - a formal policy, e.g. a written policy approved by relevant administration
+Yes - a formal policy, e.g. a written policy approved by relevant administration
+Yes - a formal policy, e.g. a written policy approved by relevant administration
+
+
+
+-------------------------------------
+Does your institution have an accessibility policy in place that applies to the content you create and make available on the World Wide Web? Other (please specify)
+
+
+
+
+-------------------------------------
+Which mandate(s) inform your accessibility policy for content creation? Please select all that apply. Section 508 of the Rehabilitation Act of 1973
+
+Section 508 of the Rehabilitation Act of 1973
+Section 508 of the Rehabilitation Act of 1973
+Section 508 of the Rehabilitation Act of 1973
+Section 508 of the Rehabilitation Act of 1973
+Section 508 of the Rehabilitation Act of 1973
+Section 508 of the Rehabilitation Act of 1973
+
+
+
+-------------------------------------
+Which mandate(s) inform your accessibility policy for content creation? Please select all that apply. Americans with Disabilities Act
+
+Americans with Disabilities Act
+Americans with Disabilities Act
+Americans with Disabilities Act
+Americans with Disabilities Act
+Americans with Disabilities Act
+Americans with Disabilities Act
+Americans with Disabilities Act
+Americans with Disabilities Act
+
+
+
+-------------------------------------
+Which mandate(s) inform your accessibility policy for content creation? Please select all that apply. World Wide Web Consortium’s Web Content Accessibility Guidelines (WCAG)
+
+World Wide Web Consortium’s Web Content Accessibility Guidelines (WCAG)
+World Wide Web Consortium’s Web Content Accessibility Guidelines (WCAG)
+World Wide Web Consortium’s Web Content Accessibility Guidelines (WCAG)
+World Wide Web Consortium’s Web Content Accessibility Guidelines (WCAG)
+World Wide Web Consortium’s Web Content Accessibility Guidelines (WCAG)
+World Wide Web Consortium’s Web Content Accessibility Guidelines (WCAG)
+World Wide Web Consortium’s Web Content Accessibility Guidelines (WCAG)
+World Wide Web Consortium’s Web Content Accessibility Guidelines (WCAG)
+World Wide Web Consortium’s Web Content Accessibility Guidelines (WCAG)
+
+
+
+-------------------------------------
+Which mandate(s) inform your accessibility policy for content creation? Please select all that apply. State law governing my institution
+
+State law governing my institution
+
+
+
+-------------------------------------
+Which mandate(s) inform your accessibility policy for content creation? Please select all that apply. Non-legal internal mandate
+
+Non-legal internal mandate
+Non-legal internal mandate
+Non-legal internal mandate
+
+
+
+-------------------------------------
+Which mandate(s) inform your accessibility policy for content creation? Please select all that apply. Non-legal institution-wide mandate
+
+Non-legal institution-wide mandate
+Non-legal institution-wide mandate
+Non-legal institution-wide mandate
+Non-legal institution-wide mandate
+Non-legal institution-wide mandate
+
+
+
+-------------------------------------
+Which mandate(s) inform your accessibility policy for content creation? Please select all that apply. Other (please specify)
+
+(I do not know whether or not State law--which does govern the UH System--has any accessibility mandates.)
+EPUB accessibility 1.0
+
+
+
+-------------------------------------
+Do you have a timeline for implementing your accessibility policy for content creation?
+
+Other (please specify)
+All content must conform with the policy at this time
+Other (please specify)
+1 – 2 years
+All content must conform with the policy at this time
+Other (please specify)
+3 – 4 years
+1 – 2 years
+1 – 2 years
+All content must conform with the policy at this time
+
+
+
+-------------------------------------
+Do you have a timeline for implementing your accessibility policy for content creation? Other (please specify)
+
+NA
+No timeline
+All new content is supposed to be compliant now; I believe that there's a short grace period (a year or two) for pre-existing content.
+
+
+
+-------------------------------------
+Who is responsible for updating your accessibility policy for content creation, and how often is it audited/updated?
+
+Digital Information unit
+Informal policy, institutional "intention"
+A campus-wide committee
+Internal library committee, updated annually
+I believe the Library's internal policy is overseen by the Assistant University Librarian for IT; I'm not sure which office oversees the campus/system wide policies.
+At Michigan Publishing, the policy is driven by an Accessibility Group that includes members across all units of Michigan Publishing
+Central accessibility office (new - no update schedule yet)
+Central Technology Services unit at the university; updated annually. Local policies at our library flow from and sometimes expand upon that guidance.
+
+
+
+-------------------------------------
+Which tools/resources do you use to ensure your content conforms to the accessibility policy? WebAIM
+
+WebAIM
+WebAIM
+WebAIM
+
+
+
+-------------------------------------
+Which tools/resources do you use to ensure your content conforms to the accessibility policy? WAVE Web Accessibility Evaluation Tool
+
+WAVE Web Accessibility Evaluation Tool
+WAVE Web Accessibility Evaluation Tool
+WAVE Web Accessibility Evaluation Tool
+WAVE Web Accessibility Evaluation Tool
+WAVE Web Accessibility Evaluation Tool
+WAVE Web Accessibility Evaluation Tool
+
+
+
+-------------------------------------
+Which tools/resources do you use to ensure your content conforms to the accessibility policy? AXE Accessibility
+
+AXE Accessibility
+
+
+
+-------------------------------------
+Which tools/resources do you use to ensure your content conforms to the accessibility policy? Built in screen reader(s)
+
+Built in screen reader(s)
+Built in screen reader(s)
+Built in screen reader(s)
+Built in screen reader(s)
+Built in screen reader(s)
+
+
+
+-------------------------------------
+Which tools/resources do you use to ensure your content conforms to the accessibility policy? Manually tabbing through webpages
+
+Manually tabbing through webpages
+Manually tabbing through webpages
+Manually tabbing through webpages
+
+
+
+-------------------------------------
+Which tools/resources do you use to ensure your content conforms to the accessibility policy? Accessibility features found in web browsers
+
+Accessibility features found in web browsers
+Accessibility features found in web browsers
+Accessibility features found in web browsers
+Accessibility features found in web browsers
+Accessibility features found in web browsers
+
+
+
+-------------------------------------
+Which tools/resources do you use to ensure your content conforms to the accessibility policy? None
+
+None
+
+
+
+-------------------------------------
+Which tools/resources do you use to ensure your content conforms to the accessibility policy? ther (please specify)
+
+SiteImprove
+specific computers in one location, plus captioning, audio description, or transcription upon request for audio or video works
+I also use non-built-in screen readers such as NVDA & JAWS; I believe our IT departments have done additional testing with other tools.
+Daisy Consortium Ace Accessibility Checker (EPUB); External audits from accessibility consultants
+NVDA
+SiteImprove toolbar
+
+
+
+-------------------------------------
+What training has been provided to help staff understand and implement your accessibility policy for content creation? Please select all that apply. In-person training from other staff
+
+In-person training from other staff
+In-person training from other staff
+In-person training from other staff
+In-person training from other staff
+In-person training from other staff
+In-person training from other staff
+In-person training from other staff
+
+
+
+-------------------------------------
+What training has been provided to help staff understand and implement your accessibility policy for content creation? Please select all that apply. In-person training from external areas of the institution
+
+In-person training from external areas of the institution
+In-person training from external areas of the institution
+In-person training from external areas of the institution
+In-person training from external areas of the institution
+
+
+
+-------------------------------------
+What training has been provided to help staff understand and implement your accessibility policy for content creation? Please select all that apply. In-person training from outside of the institution
+
+In-person training from outside of the institution
+In-person training from outside of the institution
+In-person training from outside of the institution
+
+
+
+-------------------------------------
+What training has been provided to help staff understand and implement your accessibility policy for content creation? Please select all that apply. Webinars/on-line courses
+
+Webinars/on-line courses
+Webinars/on-line courses
+Webinars/on-line courses
+Webinars/on-line courses
+Webinars/on-line courses
+Webinars/on-line courses
+
+
+
+-------------------------------------
+What training has been provided to help staff understand and implement your accessibility policy for content creation? Please select all that apply. Conferences/workshops
+
+Conferences/workshops
+Conferences/workshops
+Conferences/workshops
+
+
+
+-------------------------------------
+What training has been provided to help staff understand and implement your accessibility policy for content creation? Please select all that apply. Self-training
+
+Self-training
+Self-training
+Self-training
+Self-training
+Self-training
+
+
+
+-------------------------------------
+What training has been provided to help staff understand and implement your accessibility policy for content creation? Please select all that apply. None
+
+None
+
+
+
+-------------------------------------
+What training has been provided to help staff understand and implement your accessibility policy for content creation? Please select all that apply. Other (please specify)
+
+
+
+
+-------------------------------------
+How is your accessibility policy for content creation enforced?
+
+internally tracked
+University IT generates reports of web accessibility for our web pages
+Review by campus-wide committee
+By mandate from library dean
+I'm not sure.
+Violations are corrected when identified by Accessibility Group members or from outside the organization, but there is not a regular process or audit looking for violations to the policy.
+Self-enforced
+Automated checks from SiteImprove and periodic reviews from organizational and institutional staff
+
+
+
+-------------------------------------
+Are you responsible for purchasing, acquiring or creating systems within your institution? Yes or No
+
+No
+Yes
+No
+No
+Yes
+Yes
+No
+No
+Yes
+No
+No
+No
+Other (please specify)
+No
+Yes
+No
+Yes
+Yes
+No
+Yes
+Other (please specify)
+
+
+
+-------------------------------------
+Are you responsible for purchasing, acquiring or creating systems within your institution? Other (please specify)
+
+I administer one of the Library's systems (specifically, ArchivesSpace, for metadata on our archival collections). 
+Co-manage systems with Library IT
+
+
+
+-------------------------------------
+Does your institution have an accessibility policy for determining which systems will be used to host content on the World Wide Web?
+
+No
+Other (please specify)
+Other (please specify)
+Other (please specify)
+Yes - a formal policy, e.g. a written policy approved by relevant administration
+Yes - a formal policy, e.g. a written policy approved by relevant administration
+Yes - a formal policy, e.g. a written policy approved by relevant administration
+Yes – an informal policy, e.g. rule of thumb to generally follow
+Yes - a formal policy, e.g. a written policy approved by relevant administration
+
+
+
+-------------------------------------
+Does your institution have an accessibility policy for determining which systems will be used to host content on the World Wide Web? Other (please specify)
+
+not which systems, but the content itself
+Policy in progress
+We have an accessibility policy, but I'm not sure it specifies which systems will be used for what content--I believe that's more of a collection development decision.
+
+
+
+-------------------------------------
+Which mandate(s) inform your accessibility policy for systems? Please select all that apply. Section 508 of the Rehabilitation Act of 1973
+
+Section 508 of the Rehabilitation Act of 1973
+Section 508 of the Rehabilitation Act of 1973
+
+
+
+-------------------------------------
+Which mandate(s) inform your accessibility policy for systems? Please select all that apply. Americans with Disabilities Act
+
+Americans with Disabilities Act
+Americans with Disabilities Act
+Americans with Disabilities Act
+Americans with Disabilities Act
+Americans with Disabilities Act
+Americans with Disabilities Act
+
+
+
+-------------------------------------
+Which mandate(s) inform your accessibility policy for systems? Please select all that apply. World Wide Web Consortium’s Web Content Accessibility Guidelines (WCAG)
+
+World Wide Web Consortium’s Web Content Accessibility Guidelines (WCAG)
+World Wide Web Consortium’s Web Content Accessibility Guidelines (WCAG)
+World Wide Web Consortium’s Web Content Accessibility Guidelines (WCAG)
+World Wide Web Consortium’s Web Content Accessibility Guidelines (WCAG)
+World Wide Web Consortium’s Web Content Accessibility Guidelines (WCAG)
+World Wide Web Consortium’s Web Content Accessibility Guidelines (WCAG)
+World Wide Web Consortium’s Web Content Accessibility Guidelines (WCAG)
+World Wide Web Consortium’s Web Content Accessibility Guidelines (WCAG)
+
+
+
+-------------------------------------
+Which mandate(s) inform your accessibility policy for systems? Please select all that apply. State law governing my institution
+
+
+
+
+-------------------------------------
+Which mandate(s) inform your accessibility policy for systems? Please select all that apply. Non-legal internal mandate
+
+Non-legal internal mandate
+Non-legal internal mandate
+Non-legal internal mandate
+Non-legal internal mandate
+
+
+
+-------------------------------------
+Which mandate(s) inform your accessibility policy for systems? Please select all that apply. Non-legal institution-wide mandate
+
+Non-legal institution-wide mandate
+Non-legal institution-wide mandate
+Non-legal institution-wide mandate
+Non-legal institution-wide mandate
+
+
+
+-------------------------------------
+Which mandate(s) inform your accessibility policy for systems? Please select all that apply. Other (please specify)
+
+
+
+
+-------------------------------------
+Do you have a timeline for implementing your accessibility policy for systems?
+
+All systems must conform with the policy at this time
+1 – 2 years
+Other (please specify)
+3 – 4 years
+All systems must conform with the policy at this time
+1 – 2 years
+All systems must conform with the policy at this time
+All systems must conform with the policy at this time
+
+
+
+-------------------------------------
+Do you have a timeline for implementing your accessibility policy for systems? Other (please specify)
+
+New content that the library creates itself has to be compliant; I believe pre-existing content and 3rd party content has a grace period.
+
+
+
+-------------------------------------
+Who is responsible for updating your accessibility policy for systems, and how often is it audited/updated?
+
+Dean's Library Council
+A campus-wide committee
+I'm not sure.
+Campus Division of IT; unknown
+campus administration; unknown frequency
+Central office (new - no updates yet)
+Central Technology Services unit at the university; updated annually. Local policies at our library flow from and sometimes expand upon that guidance.
+At the university level.
+
+
+
+-------------------------------------
+Which tools/resources do you use to ensure your content conforms to the accessibility policy for systems? WebAIM
+
+WebAIM
+WebAIM
+WebAIM
+
+
+
+-------------------------------------
+Which tools/resources do you use to ensure your content conforms to the accessibility policy  for systems? WAVE Web Accessibility Evaluation Tool
+
+WAVE Web Accessibility Evaluation Tool
+WAVE Web Accessibility Evaluation Tool
+WAVE Web Accessibility Evaluation Tool
+WAVE Web Accessibility Evaluation Tool
+
+
+
+-------------------------------------
+Which tools/resources do you use to ensure your content conforms to the accessibility policy for systems? AXE Accessibility
+
+
+
+
+-------------------------------------
+Which tools/resources do you use to ensure your content conforms to the accessibility policy for systems? Built in screen reader(s)
+
+Built in screen reader(s)
+Built in screen reader(s)
+
+
+
+-------------------------------------
+Which tools/resources do you use to ensure your content conforms to the accessibility policy for systems? Manually tabbing through webpages
+
+Manually tabbing through webpages
+Manually tabbing through webpages
+Manually tabbing through webpages
+
+
+
+-------------------------------------
+Which tools/resources do you use to ensure your content conforms to the accessibility policy for systems? Accessibility features found in web browsers
+
+Accessibility features found in web browsers
+Accessibility features found in web browsers
+Accessibility features found in web browsers
+Accessibility features found in web browsers
+Accessibility features found in web browsers
+
+
+
+-------------------------------------
+Which tools/resources do you use to ensure your content conforms to the accessibility policy for systems? None
+
+
+
+
+-------------------------------------
+Which tools/resources do you use to ensure your content conforms to the accessibility policy for systems? Other (please specify)
+
+siteimprove
+SiteImprove
+Other screen reader software, not built into the browser (e.g. NVDA; JAWS)
+SiteImprove
+NVDA
+SiteImprove toolbar, published accessibility reports
+Don't know
+
+
+
+-------------------------------------
+What training has been provided to help staff understand and implement your accessibility policy for systems?  In-person training from other staff
+
+In-person training from other staff
+In-person training from other staff
+In-person training from other staff
+In-person training from other staff
+
+
+
+-------------------------------------
+What training has been provided to help staff understand and implement your accessibility policy for systems?  In-person training from external areas of the institution
+
+In-person training from external areas of the institution
+In-person training from external areas of the institution
+In-person training from external areas of the institution
+In-person training from external areas of the institution
+
+
+
+-------------------------------------
+What training has been provided to help staff understand and implement your accessibility policy for systems?  In-person training from outside of the institution
+
+In-person training from outside of the institution
+In-person training from outside of the institution
+In-person training from outside of the institution
+
+
+
+-------------------------------------
+What training has been provided to help staff understand and implement your accessibility policy for systems?  Webinars/on-line courses
+
+Webinars/on-line courses
+Webinars/on-line courses
+
+
+
+-------------------------------------
+What training has been provided to help staff understand and implement your accessibility policy for systems?  Conferences/workshops
+
+Conferences/workshops
+Conferences/workshops
+Conferences/workshops
+Conferences/workshops
+
+
+
+-------------------------------------
+What training has been provided to help staff understand and implement your accessibility policy for systems?  Self-training
+
+Self-training
+Self-training
+Self-training
+Self-training
+Self-training
+Self-training
+Self-training
+
+
+
+-------------------------------------
+What training has been provided to help staff understand and implement your accessibility policy for systems?  None
+
+None
+
+
+
+-------------------------------------
+What training has been provided to help staff understand and implement your accessibility policy for systems?  Other (please specify)
+
+
+
+
+-------------------------------------
+If your institution chooses to use Open Source Software (OSS), whether hosted locally or through a third party hosting agent, are those applications held to the same accessibility mandates as proprietary software?
+
+Yes
+Yes
+Other (please specify)
+Yes
+Yes
+Yes
+Yes
+Yes
+
+
+
+-------------------------------------
+If your institution chooses to use Open Source Software (OSS), whether hosted locally or through a third party hosting agent, are those applications held to the same accessibility mandates as proprietary software? Other (please specify)
+
+Yes, but I'm not sure what recourse we have if it isn't.
+
+
+
+-------------------------------------
+How is your accessibility policy for systems enforced?
+
+ongoing testing
+A campus-wide committee
+I'm not sure.
+We haven't arrived at enforcement in our process, so unknown at this time.
+unknown
+Self-enforced
+Our policy for hosted software is much more lax than the policy for software developed in-house. We don't have procurement requirements that require a certain level of accessibility compliance. Individuals at our institution/library can talk with vendors about making products accessible, but our policy does not require it.
+All systems must go through internal review before public launch
+
+
+
+-------------------------------------

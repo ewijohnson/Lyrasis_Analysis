@@ -1,0 +1,60 @@
+Unique Identifier: 
+    133
+Carnegie Classification of Institutions of Higher Education (if your institution fits within a larger/home organization that has a Carnegie Classification, please indicate here): 
+    Doctoral University – Highest Research Activity (R1)
+Are you responsible for purchasing or pledging financial support for digital content for your institution? Yes or No: 
+    No
+Are you responsible for creating or collating digital content from within your institution? Yes or No: 
+    Yes
+What type of content are you creating and making available for your community? Please select all that apply. Theses and Dissertations: 
+    Theses and Dissertations
+What type of content are you creating and making available for your community? Please select all that apply. Journals: 
+    Journals
+What type of content are you creating and making available for your community? Please select all that apply. Monographs: 
+    Monographs
+What type of content are you creating and making available for your community? Please select all that apply. Born digital or digitized archival/special collections materials: 
+    Born digital or digitized archival/special collections materials
+What type of content are you creating and making available for your community? Please select all that apply. Scholarly articles/publications: 
+    Scholarly articles/publications
+What type of content are you creating and making available for your community? Please select all that apply. Audio/video content: 
+    Audio/video content
+What type of content are you creating and making available for your community? Please select all that apply. Other campus publications: 
+    Other campus publications
+Does your institution have an accessibility policy in place that applies to the content you create and make available on the World Wide Web?: 
+    Yes – an informal policy, e.g. rule of thumb to generally follow
+Which mandate(s) inform your accessibility policy for content creation? Please select all that apply. Section 508 of the Rehabilitation Act of 1973: 
+    Section 508 of the Rehabilitation Act of 1973
+Which mandate(s) inform your accessibility policy for content creation? Please select all that apply. World Wide Web Consortium’s Web Content Accessibility Guidelines (WCAG): 
+    World Wide Web Consortium’s Web Content Accessibility Guidelines (WCAG)
+Which mandate(s) inform your accessibility policy for content creation? Please select all that apply. Non-legal internal mandate: 
+    Non-legal internal mandate
+Which mandate(s) inform your accessibility policy for content creation? Please select all that apply. Other (please specify): 
+    EPUB accessibility 1.0
+Do you have a timeline for implementing your accessibility policy for content creation?: 
+    3 – 4 years
+Who is responsible for updating your accessibility policy for content creation, and how often is it audited/updated?: 
+    At Michigan Publishing, the policy is driven by an Accessibility Group that includes members across all units of Michigan Publishing
+Which tools/resources do you use to ensure your content conforms to the accessibility policy? WebAIM: 
+    WebAIM
+Which tools/resources do you use to ensure your content conforms to the accessibility policy? WAVE Web Accessibility Evaluation Tool: 
+    WAVE Web Accessibility Evaluation Tool
+Which tools/resources do you use to ensure your content conforms to the accessibility policy? AXE Accessibility: 
+    AXE Accessibility
+Which tools/resources do you use to ensure your content conforms to the accessibility policy? Built in screen reader(s): 
+    Built in screen reader(s)
+Which tools/resources do you use to ensure your content conforms to the accessibility policy? Manually tabbing through webpages: 
+    Manually tabbing through webpages
+Which tools/resources do you use to ensure your content conforms to the accessibility policy? ther (please specify): 
+    Daisy Consortium Ace Accessibility Checker (EPUB); External audits from accessibility consultants
+What training has been provided to help staff understand and implement your accessibility policy for content creation? Please select all that apply. In-person training from other staff: 
+    In-person training from other staff
+What training has been provided to help staff understand and implement your accessibility policy for content creation? Please select all that apply. In-person training from external areas of the institution: 
+    In-person training from external areas of the institution
+What training has been provided to help staff understand and implement your accessibility policy for content creation? Please select all that apply. Webinars/on-line courses: 
+    Webinars/on-line courses
+What training has been provided to help staff understand and implement your accessibility policy for content creation? Please select all that apply. Conferences/workshops: 
+    Conferences/workshops
+How is your accessibility policy for content creation enforced?: 
+    Violations are corrected when identified by Accessibility Group members or from outside the organization, but there is not a regular process or audit looking for violations to the policy.
+Are you responsible for purchasing, acquiring or creating systems within your institution? Yes or No: 
+    No

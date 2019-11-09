@@ -1,0 +1,10 @@
+How is your accessibility policy for systems enforced?
+
+ongoing testing
+A campus-wide committee
+I'm not sure.
+We haven't arrived at enforcement in our process, so unknown at this time.
+unknown
+Self-enforced
+Our policy for hosted software is much more lax than the policy for software developed in-house. We don't have procurement requirements that require a certain level of accessibility compliance. Individuals at our institution/library can talk with vendors about making products accessible, but our policy does not require it.
+All systems must go through internal review before public launch

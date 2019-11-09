@@ -1,0 +1,3 @@
+Do you have a timeline for implementing your accessibility policy for systems? Other (please specify)
+
+New content that the library creates itself has to be compliant; I believe pre-existing content and 3rd party content has a grace period.

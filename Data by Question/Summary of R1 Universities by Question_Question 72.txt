@@ -1,0 +1,10 @@
+How is your accessibility policy for content creation enforced?
+
+internally tracked
+University IT generates reports of web accessibility for our web pages
+Review by campus-wide committee
+By mandate from library dean
+I'm not sure.
+Violations are corrected when identified by Accessibility Group members or from outside the organization, but there is not a regular process or audit looking for violations to the policy.
+Self-enforced
+Automated checks from SiteImprove and periodic reviews from organizational and institutional staff
